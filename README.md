@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hillaryvulimu
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Kivy
-- 💞️ I’m looking to collaborate on Python, Django, Django REST, Kivy
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on Python, Django, Django REST, ReactJs
 - 📫 How to reach me ...
 
 <!---
